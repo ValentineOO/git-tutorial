@@ -195,6 +195,7 @@ Primarily for individual or local use	Excellent for team collaboration with
 
 
 
+
 How They Work Together
 Using Git and GitHub together, you can track your project locally with Git, then push (upload) your changes to GitHub to share with others. This lets you:
     1. Back up your code online in case something happens to your local files.
@@ -243,3 +244,6 @@ Combines the specified branch into the current branch.
 Deletes a branch after merging it.
 - git branch -d <branch_name>
 
+
+
+Made some changes to this file.
